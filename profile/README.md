@@ -1,4 +1,4 @@
-![](https://github.com/organizations/OGERHub/settings/profile)
+![]([https://github.com/organizations/OGERHub/settings/profile](https://avatars.githubusercontent.com/u/165089017?s=400&u=c3f63fc21d8c72166a3f1d47a69844c5a4f9bdf1&v=4))
 The organisation  [ogerhub](https://ogerhub.github.io/) is part of the [Department of Geography](https://www.uni-marburg.de/fb19).
 
 
